@@ -1,0 +1,3 @@
+goodbye.o: goodbye.c test.h
+hello.o: hello.c test.h
+main.o: main.c test.h
